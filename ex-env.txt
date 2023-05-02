@@ -1,0 +1,3 @@
+clientId=client-id-go-here
+guildId=guild-id-go-here
+token=token-go-here
